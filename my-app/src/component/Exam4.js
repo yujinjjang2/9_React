@@ -13,7 +13,7 @@ const Exam4 = () => {
     }
 
     const onChangePw = (event) => {
-        setId(event.target.value);
+        setPw(event.target.value);
     }
 
     return (
